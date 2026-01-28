@@ -1,0 +1,16 @@
+# Archivos de datos de participantes
+*.xlsm
+*.xlsx
+
+# Claude
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
